@@ -1,11 +1,8 @@
 {
   "name": "custom_styled_buttons",
-  "version": "1.0.0",
-  "description": "create customizable buttons in a flash",
-  "main": "index.html",
-  "directories": {
-    "test": "test"
-  },
+  "version": "1.1.1",
+  "description": "create stylish buttons with little code",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,10 +11,9 @@
     "url": "git+https://github.com/emmanuelsheshi/CustomStyledButtons.git"
   },
   "keywords": [
-    "customs-buttons",
-    "js-buttons",
-    "styled-buttons",
-    "game-buttons"
+    "custom-buttons",
+    "sytled-buttons",
+    "buttons"
   ],
   "author": "Emmanuel sheshi",
   "license": "ISC",
